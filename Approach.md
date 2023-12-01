@@ -18,5 +18,3 @@ Here is a step-by-step breakdown of the approach:
 
 4. Return the Result:
    - The final result is the maximum number of presentations that can be attended without any overlap.
-
-This approach is efficient and ensures that you select presentations in a way that maximizes the number of attended presentations. Sorting by end times allows you to easily identify non-overlapping presentations and make optimal choices.
